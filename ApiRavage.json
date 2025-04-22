@@ -1,8 +1,8 @@
  {
   "status": true,
-  "criador": "Daffa Dev ApiForce",
+  "criador": "Daffa Dev ApiForceClose",
   "resultado": {
-    "type": "md",
+    "type": "Bug",
     "ws": {
       "_events": {
         "CB:ib,,dirty": ["Array"]
